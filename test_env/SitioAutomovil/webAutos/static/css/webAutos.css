@@ -1,0 +1,37 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: fantasy;
+    padding-left: 20px;
+}
+
+
+#panel, #flip {
+    padding: 5px;
+    text-align: left;
+    background-color: #ffffff;
+    /*border: solid 1px #c3c3c3;*/
+    width: 50%;
+}
+
+#panel {
+    padding: 30px;
+    display: none;
+}
+
+body header{ 
+    background: rgba(17, 85, 231, 0.856); 
+    height: 100px;  
+}
+
+
+nav div:first-child h1{
+    padding-top: 20px;
+    margin:0 1rem;
+    padding-left: 5px;
+}
+
+a{
+    cursor: pointer;
+}
+
+
